@@ -1,10 +1,12 @@
 body{
+    text-decoration: none;
     font-family: Cavier, Verdana, sans-serif;
     text-align:center;
     background-color: rgb(240, 242, 240);
     color:black;
 }
 h1{
+    font-family: Sand, Veranda, serif;
     font-style: italic;
     font-size: 60px;
 }
@@ -12,5 +14,9 @@ h2{
     font-size: 20px;
     color:rgb(35, 36, 35);
 }
+div{
+    font-size: 16px;
+}
+
 
 
